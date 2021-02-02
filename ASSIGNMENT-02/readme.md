@@ -9,3 +9,9 @@ Predicting House Prices (Multiple Variables)
 * Evaluate multiple models via RSS
 ## Algorithm
 Multiple Linear Regression
+## File Description
+* .csv file is for dataset
+  * kc_house_data.csv is complete dataset file
+  * kc_house_train_data.csv is train data file
+  * kc_house_test_data.csv is test data file
+* .ipynb file is solution of the assignment
