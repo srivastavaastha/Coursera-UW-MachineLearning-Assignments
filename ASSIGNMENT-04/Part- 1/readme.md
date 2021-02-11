@@ -1,6 +1,6 @@
-# Observing effects of L2 penalty in polynomial regression
+# Understanding ridge regression
 ## Goal
-Understanding ridge regression
+Observing effects of L2 penalty in polynomial regression
 ## Implementation
 * Use a pre-built implementation of regression to run polynomial regression
 * Use matplotlib to visualize polynomial regressions
